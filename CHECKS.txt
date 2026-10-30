@@ -1,0 +1,9 @@
+SSH/Telnet default ports: PASS
+Network/serial field preservation: PASS
+Serial save/load including framing and flow control: PASS
+Telnet save/load and custom port: PASS
+Non-SSH saved password excluded: PASS
+Protocol table metadata: PASS
+Own temporary profiles removed: PASS
+Two simultaneous loopback Telnet connections receiving data: PASS
+Physical serial device connection: NOT TESTED (no COM hardware available)
